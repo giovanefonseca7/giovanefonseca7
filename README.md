@@ -6,7 +6,7 @@
 
 💻 Tenho conhecimentos básicos em desenvolvimento web, incluindo HTML5, CSS3 e JavaScript.
 
-🌱 Estou aprendendo Java com foco em POO, estudando estruturas como variáveis, tipos primitivos, estruturas de repetição e controle de fluxo.
+<>  Estou aprendendo Java com foco em POO, estudando estruturas como variáveis, tipos primitivos, estruturas de repetição e controle de fluxo.
 
 💾 Também estou mergulhando em banco de dados, com foco em modelagem de dados, consultas SQL, e aprimorando minhas habilidades em lógica de programação.
 
